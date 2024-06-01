@@ -1,2 +1,0 @@
-# Alaa-Spam
-Reporter-Telegram
